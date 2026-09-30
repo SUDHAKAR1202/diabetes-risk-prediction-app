@@ -1,0 +1,29 @@
+1. Create a list containing five student names and display the list.
+
+2. Create a list containing five integers and display the first and last elements.
+
+3. Create a list of five numbers and add a new number at the end using append().
+
+4. Create a list of five fruits and remove one fruit from the list.
+
+5. Create a list of numbers and calculate the sum of all elements using a for loop.
+
+6. Create a dictionary containing a student's name, age, department and marks. Display all the values.
+
+7. Create a dictionary containing the names and marks of five students. Display the marks of a particular student.
+
+8. Create a dictionary containing three key-value pairs and add a new key-value pair to it.
+
+9. Create a student dictionary and update the marks of the student.
+
+10. Create a dictionary and check whether a particular key exists in the dictionary.
+
+11. Given the list [10, 20, 30, 40, 50, 60, 70], print the first three elements using list slicing.
+
+12. Given the list [10, 20, 30, 40, 50, 60, 70], print the last three elements using list slicing.
+
+13. Given the list [10, 20, 30, 40, 50, 60, 70], print the elements from index 2 to index 5 using list slicing.
+
+14. Given the list [10, 20, 30, 40, 50, 60, 70], print the list in reverse order using list slicing.
+
+15. Given the list [10, 20, 30, 40, 50, 60, 70], print every second element using list slicing.

@@ -1,0 +1,27 @@
+**Assignment: Seaborn Data Visualization and Null Value Handling**
+
+1. Select any one **inbuilt dataset available in Seaborn**.
+
+2. Explore and understand the **structure of the dataset**, including:
+
+   * Number of rows and columns
+   * Column names
+   * Data types
+   * Basic statistical information
+   * Presence of missing/null values
+
+3. Visualize the dataset using different types of **Seaborn plots**, such as:
+
+   * Scatter Plot
+   * Line Plot
+   * Bar Plot
+   * Box Plot
+   * Histogram
+   * Count Plot
+   * Heatmap
+
+4. Observe and explain how the **structure and nature of the data** determine the appropriate Seaborn plot.
+
+5. Identify the **null/missing values** present in the dataset and handle them appropriately using suitable techniques.
+
+6. Submit the complete **Python code along with the generated visualizations and a brief explanation of your observations**.
