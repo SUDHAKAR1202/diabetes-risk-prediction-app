@@ -17,6 +17,8 @@
 
 - Python FastAPI endpoints in Swagger.
 
+- Kaggle dataset used : https://www.kaggle.com/datasets/jamaltariqcheema/pima-indians-diabetes-dataset
+
 ## Run the backend
 ```bash
 cd backend
